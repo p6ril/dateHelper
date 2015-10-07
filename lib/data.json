@@ -1,0 +1,92 @@
+{
+    "locales": [
+        "en",
+        "fr"
+    ],
+    "months": [
+        {
+            "name": {
+                "en": "january",
+                "fr": "janvier"
+            },
+            "duration": 31
+        },
+        {
+            "name": {
+                "en": "february",
+                "fr": "février"
+            },
+            "duration": 28
+        },
+        {
+            "name": {
+                "en": "march",
+                "fr": "mars"
+            },
+            "duration": 31
+        },
+        {
+            "name": {
+                "en": "april",
+                "fr": "avril"
+            },
+            "duration": 30
+        },
+        {
+            "name": {
+                "en": "may",
+                "fr": "mai"
+            },
+            "duration": 31
+        },
+        {
+            "name": {
+                "en": "june",
+                "fr": "juin"
+            },
+            "duration": 30
+        },
+        {
+            "name": {
+                "en": "july",
+                "fr": "juillet"
+            },
+            "duration": 31
+        },
+        {
+            "name": {
+                "en": "august",
+                "fr": "août"
+            },
+            "duration": 31
+        },
+        {
+            "name": {
+                "en": "september",
+                "fr": "septembre"
+            },
+            "duration": 30
+        },
+        {
+            "name": {
+                "en": "october",
+                "fr": "octobre"
+            },
+            "duration": 31
+        },
+        {
+            "name": {
+                "en": "november",
+                "fr": "novembre"
+            },
+            "duration": 30
+        },
+        {
+            "name": {
+                "en": "december",
+                "fr": "décembre"
+            },
+            "duration": 31
+        }
+    ]
+}
