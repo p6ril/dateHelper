@@ -1,6 +1,6 @@
 {
   "name": "datehelper",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "description": "a helper module providing methods to work with dates, properly taking into account leap years",
   "main": "./lib/datehelper.js",
   "dependencies": {

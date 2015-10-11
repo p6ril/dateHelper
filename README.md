@@ -28,9 +28,9 @@ Optionally:
 * check the result of the tests (requires building tools like `make`):
 ```
 $ make
-$ mocha -u tdd -c ./tests/*.js #if 'make' isn't available on your system
+$ mocha -c ./tests/*.js #if 'make' isn't available on your system
 ```
-* Generate the API documentation (install jdsoc if necessary):
+* Generate the API documentation (install `jdsoc` if necessary):
 ```
 $ sudo npm install -g jdsoc
 $ jsdoc ./lib/dateHelper.js
